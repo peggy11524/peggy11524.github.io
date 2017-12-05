@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>千層蛋糕精選比較</title>
+    <link rel="stylesheet" href="../stylesheets/lab-4.css">
+</head>
+<body>
+    
+        <h1>塔吉特、Lady M、、深藍咖啡館</h1>
+            <table>
+                <thead>
+                <tr>
+                    <th></th>
+                    <th><a href="http://www.mcdonalds.com.tw/tw/ch/index.html" target="_blank">麥當勞</a><br>
+                        <img src="./麥當勞logo.png" alt="麥當勞logo"></th>
+                    <th><a href="http://www.kfcclub.com.tw/" target="_blank">肯德基</a><br>
+                        <img src="./肯德基logo.png" alt="肯德基logo"></th>
+                    <th><a href="https://www.mos.com.tw/" target="_blank">摩斯</a><br>
+                        <img src="./摩斯logo.png" alt="摩斯logo"></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>蛋糕</td>
+                    <td class="center"><img src="./麥雞.png" alt="塔吉特"></td>
+                    <td class="center"><img src="./肯雞.jpg" alt="Lady M"></td>
+                    <td class="center"><img src="./摩雞.jpg" alt="深藍咖啡館"></td>
+                </tr>
+                <tr>
+                    <td>價格</td>
+                    <td>100元</td>
+                    <td>150元</td>
+                    <td>260元</td>
+                </tr>
+                <tr>
+                    <td>特色</td>
+                    <td><ul><li>網購排名第一，法式奶味重</li></ul></td>
+                    <td><ul><li>來自紐約，定位為奢侈的蛋糕風格</li></ul></td>
+                    <td><ul><li>新鮮土雞蛋製作的，配合台灣新鮮水果</li></ul></td>
+                </tr>
+                </tbody>
+            </table>
+</body>
+</html>
